@@ -2,7 +2,7 @@
   "plugins": [
     {
       "title": "DonateCase",
-      "icon": "fa-cubes",
+      "icon": "fas fa-cubes",
       "description": "Minecraft server plugin for managing donations.",
       "badges": [
         "https://img.shields.io/modrinth/dt/DonateCase?style=for-the-badge&color=orange",
