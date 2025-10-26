@@ -18,7 +18,7 @@
     },
     {
       "title": "SimpleGranter [FREE]",
-      "icon": "fa-gift",
+      "icon": "fas fa-gift",
       "description": "Allow your donors to donate groups to other players.",
       "badges": [
         "https://img.shields.io/spiget/downloads/110477?style=for-the-badge&color=orange",
@@ -74,7 +74,7 @@
   "addons": [
     {
       "title": "DonateCase Addon",
-      "icon": "fa-puzzle-piece",
+      "icon": "fas fa-puzzle-piece",
       "description": "Addon for DonateCase plugin, adds extra functionality.",
       "badges": ["https://img.shields.io/badge/Add-on-orange"],
       "links": [{ "href": "https://modrinth.com/plugin/donatecase", "text": "More Info" }]
