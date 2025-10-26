@@ -1,83 +1,83 @@
 {
-plugins: [
+  "plugins": [
     {
-      title: "DonateCase",
-      icon: "fa-cubes",
-      description: "Minecraft server plugin for managing donations.",
-      badges: [
+      "title": "DonateCase",
+      "icon": "fa-cubes",
+      "description": "Minecraft server plugin for managing donations.",
+      "badges": [
         "https://img.shields.io/modrinth/dt/DonateCase?style=for-the-badge&color=orange",
         "https://img.shields.io/modrinth/v/DonateCase?style=for-the-badge&color=orange"
       ],
-      links: [
-        { href: "https://github.com/Jodexx/DonateCase", text: "GitHub" },
-        { href: "https://repo.jodex.xyz/javadoc/releases/com/jodexindustries/donatecase/api/latest", text: "JavaDocs" },
-        { href: "https://wiki.jodex.xyz/docs/DonateCase/donatecase-main", text: "Wiki" },
-        { href: "https://modrinth.com/plugin/donatecase", text: "Download" }
+      "links": [
+        { "href": "https://github.com/Jodexx/DonateCase", "text": "GitHub" },
+        { "href": "https://repo.jodex.xyz/javadoc/releases/com/jodexindustries/donatecase/api/latest", "text": "JavaDocs" },
+        { "href": "https://wiki.jodex.xyz/docs/DonateCase/donatecase-main", "text": "Wiki" },
+        { "href": "https://modrinth.com/plugin/donatecase", "text": "Download" }
       ],
-      blogURL: "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/plugins/donatecase.json"
+      "blogURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/plugins/donatecase.json"
     },
     {
-      title: "SimpleGranter [FREE]",
-      icon: "fa-gift",
-      description: "Allow your donors to donate groups to other players.",
-      badges: [
+      "title": "SimpleGranter [FREE]",
+      "icon": "fa-gift",
+      "description": "Allow your donors to donate groups to other players.",
+      "badges": [
         "https://img.shields.io/spiget/downloads/110477?style=for-the-badge&color=orange",
         "https://img.shields.io/spiget/version/110477?style=for-the-badge&label=Version&color=orange"
       ],
-      links: [
-        { href: "https://www.spigotmc.org/resources/simplegranter-free.110477/", text: "Download" },
-        { href: "https://github.com/Jodexx/SimpleGranterAPI", text: "API" },
-        { href: "https://repo.jodex.xyz/javadoc/releases/com/jodexindustries/simplegranter/SimpleGranterAPI/latest", text: "JavaDocs" }
+      "links": [
+        { "href": "https://www.spigotmc.org/resources/simplegranter-free.110477/", "text": "Download" },
+        { "href": "https://github.com/Jodexx/SimpleGranterAPI", "text": "API" },
+        { "href": "https://repo.jodex.xyz/javadoc/releases/com/jodexindustries/simplegranter/SimpleGranterAPI/latest", "text": "JavaDocs" }
       ],
-      blogURL: "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/plugins/simplegranterfree.json"
+      "blogURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/plugins/simplegranterfree.json"
     },
     {
-      title: "JodexPromo",
-      icon: "fab fa-twitter",
-      description: "Promo codes for your minecraft server",
-      badges: [
+      "title": "JodexPromo",
+      "icon": "fab fa-twitter",
+      "description": "Promo codes for your minecraft server",
+      "badges": [
         "https://img.shields.io/spiget/downloads/108731?style=for-the-badge&color=orange",
         "https://img.shields.io/spiget/version/108731?style=for-the-badge&label=Version&color=orange"
       ],
-      links: [
-        { href: "https://www.spigotmc.org/resources/jodexpromo.108731/", text: "Download" }
+      "links": [
+        { "href": "https://www.spigotmc.org/resources/jodexpromo.108731/", "text": "Download" }
       ],
-      blogURL: "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/plugins/jodexpromo.json"
+      "blogURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/plugins/jodexpromo.json"
     },
     {
-      title: "HeadCollector",
-      icon: "fab fa-hive",
-      description: "A plugin that adds a handy item collector to your game",
-      badges: [
+      "title": "HeadCollector",
+      "icon": "fab fa-hive",
+      "description": "A plugin that adds a handy item collector to your game",
+      "badges": [
         "https://img.shields.io/spiget/downloads/110490?style=for-the-badge&color=orange",
         "https://img.shields.io/spiget/version/110490?style=for-the-badge&label=Version&color=orange"
       ],
-      links: [
-        { href: "https://www.spigotmc.org/resources/headcollector.110490/", text: "Download" }
+      "links": [
+        { "href": "https://www.spigotmc.org/resources/headcollector.110490/", "text": "Download" }
       ],
-      blogURL: "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/plugins/headcollector.json"
+      "blogURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/plugins/headcollector.json"
     },
     {
-      title: "SimpleGranter [Premium]",
-      icon: "fas fa-money-bill",
-      description: "Promo codes for your minecraft server",
-      badges: [
+      "title": "SimpleGranter [Premium]",
+      "icon": "fas fa-money-bill",
+      "description": "Promo codes for your minecraft server",
+      "badges": [
         "https://img.shields.io/spiget/downloads/110985?style=for-the-badge&color=orange",
         "https://img.shields.io/spiget/version/110985?style=for-the-badge&label=Version&color=orange"
       ],
-      links: [
-        { href: "https://www.spigotmc.org/resources/simplegranter-premium.110985/", text: "Buy 0.99$" }
+      "links": [
+        { "href": "https://www.spigotmc.org/resources/simplegranter-premium.110985/", "text": "Buy 0.99$" }
       ],
-      blogURL: "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/plugins/simplegranterpremium.json"
+      "blogURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/plugins/simplegranterpremium.json"
     }
   ],
-  addons: [
+  "addons": [
     {
-      title: "DonateCase Addon",
-      icon: "fa-puzzle-piece",
-      description: "Addon for DonateCase plugin, adds extra functionality.",
-      badges: ["https://img.shields.io/badge/Add-on-orange"],
-      links: [{ href: "https://modrinth.com/plugin/donatecase", text: "More Info" }]
+      "title": "DonateCase Addon",
+      "icon": "fa-puzzle-piece",
+      "description": "Addon for DonateCase plugin, adds extra functionality.",
+      "badges": ["https://img.shields.io/badge/Add-on-orange"],
+      "links": [{ "href": "https://modrinth.com/plugin/donatecase", "text": "More Info" }]
     }
   ]
 }
