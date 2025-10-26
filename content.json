@@ -1,3 +1,4 @@
+{
 plugins: [
     {
       title: "DonateCase",
@@ -79,3 +80,4 @@ plugins: [
       links: [{ href: "https://modrinth.com/plugin/donatecase", text: "More Info" }]
     }
   ]
+}
