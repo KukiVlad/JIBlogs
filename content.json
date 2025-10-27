@@ -25,9 +25,9 @@
         "https://img.shields.io/spiget/version/110477?style=for-the-badge&label=Version&color=orange"
       ],
       "links": [
-        { "href": "https://www.spigotmc.org/resources/simplegranter-free.110477/", "text": "Download" },
         { "href": "https://github.com/Jodexx/SimpleGranterAPI", "text": "API" },
-        { "href": "https://repo.jodex.xyz/javadoc/releases/com/jodexindustries/simplegranter/SimpleGranterAPI/latest", "text": "JavaDocs" }
+        { "href": "https://repo.jodex.xyz/javadoc/releases/com/jodexindustries/simplegranter/SimpleGranterAPI/latest", "text": "JavaDocs" },
+        { "href": "https://www.spigotmc.org/resources/simplegranter-free.110477/", "text": "Download" }
       ],
       "blogURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/plugins/simplegranterfree.json"
     },
