@@ -78,8 +78,8 @@
       "description": "Addon for DonateCase plugin, adds extra functionality.",
       "badges": ["https://img.shields.io/badge/Add-on-orange"],
       "links": [{ "href": "https://modrinth.com/plugin/donatecase", "text": "More Info" }],
-      "infoURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/donatecase/info.json",
-      "versionsURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/donatecase/versions.json"
+      "infoURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dceventmanager/info.json",
+      "versionsURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dceventmanager/versions.json"
     }
   ]
 }
