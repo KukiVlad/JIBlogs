@@ -73,10 +73,9 @@
   ],
   "addons": [
     {
-      "title": "DonateCase Addon",
+      "title": "DCEventManager",
       "icon": "fas fa-puzzle-piece",
-      "description": "Addon for DonateCase plugin, adds extra functionality.",
-      "badges": ["https://img.shields.io/badge/Add-on-orange"],
+      "description": "Allows you to perform certain actions during DonateCase events",
       "infoURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dceventmanager/info.json",
       "versionsURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dceventmanager/versions.json"
     }
