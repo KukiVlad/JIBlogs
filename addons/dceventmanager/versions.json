@@ -1,1 +1,4 @@
-
+[
+  { "name": "v1.2.3", "download": "https://github.com/JodexIndustries/donatecase-addon/releases/download/v1.2.3/addon-1.2.3.jar" },
+  { "name": "v1.2.2", "download": "https://github.com/JodexIndustries/donatecase-addon/releases/download/v1.2.2/addon-1.2.2.jar" }
+]
