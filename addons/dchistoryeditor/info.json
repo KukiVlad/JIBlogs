@@ -2,6 +2,6 @@
   "description": [
     "This is an addon for the DonateCase plugin, it allow editing history data in cases",
     "# Commands:",
-    "/dc historyeditor (remove/set) (casetype) (index/all) [param] [value] — Edits case history data | Permission: donatecase.admin"
+    "/dc historyeditor `(remove/set)` `(casetype)` `(index/all)` `[param]` `[value]` — Edits case history data <br> Permission: `donatecase.admin`"
   ]
 }
