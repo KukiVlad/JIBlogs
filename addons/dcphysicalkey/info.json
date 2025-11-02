@@ -1,7 +1,5 @@
 {
   "description": [
-    "This addon for the DonateCase plugin allows you to obtain physical keys for DonateCase cases.",
-    "Commands:",
-    "/dc historyeditor (remove/set) (casetype) (index/all) [param] [value] — Edits case history data | Permission: donatecase.admin"
+    "This addon for the DonateCase plugin allows you to obtain physical keys for DonateCase cases."
   ]
 }
