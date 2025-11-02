@@ -71,13 +71,56 @@
       "blogURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/plugins/simplegranterpremium.json"
     }
   ],
-  "addons": [
-    {
-      "title": "DCEventManager",
-      "icon": "fas fa-puzzle-piece",
-      "description": "Allows you to perform certain actions during DonateCase events",
-      "infoURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dceventmanager/info.json",
-      "versionsURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dceventmanager/versions.json"
-    }
-  ]
+"addons": [
+  {
+    "title": "DCEventManager",
+    "icon": "fas fa-puzzle-piece",
+    "description": "Allows you to perform certain actions during DonateCase events",
+    "infoURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dceventmanager/info.json",
+    "versionsURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dceventmanager/versions.json"
+  },
+  {
+    "title": "DCPhysicalKey",
+    "icon": "fas fa-key",
+    "description": "Adds the ability to create physical keys for cases.",
+    "infoURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dcphysicalkey/info.json",
+    "versionsURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dcphysicalkey/versions.json"
+  },
+  {
+    "title": "DCWebHook",
+    "icon": "fas fa-plug",
+    "description": "Notifies about case openings using webhooks in Discord",
+    "infoURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dcwebhook/info.json",
+    "versionsURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dcwebhook/versions.json"
+  },
+  {
+    "title": "FriendCase",
+    "icon": "fas fa-gift",
+    "description": "Adds the ability to gift case keys to your friends",
+    "infoURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/friendcase/info.json",
+    "versionsURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/friendcase/versions.json"
+  },
+  {
+    "title": "DCPrizePreview",
+    "icon": "fas fa-eye",
+    "description": "Adds a preview of prizes in the case",
+    "infoURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dcprizepreview/info.json",
+    "versionsURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dcprizepreview/versions.json"
+  },
+  {
+    "title": "DCBlockAnimations",
+    "icon": "fas fa-cubes",
+    "description": "Adds certain animations for opening case blocks",
+    "infoURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dcblockanimations/info.json",
+    "versionsURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dcblockanimations/versions.json"
+  },
+  {
+    "title": "DCHistoryEditor",
+    "icon": "fas fa-pen",
+    "description": "Allows you to edit the history of case openings",
+    "infoURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dchistoryeditor/info.json",
+    "versionsURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/addons/dchistoryeditor/versions.json"
+  }
+]
+
 }
