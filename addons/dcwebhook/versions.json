@@ -1,3 +1,10 @@
 [
-  { "name": "v2.0.0", "download": "https://github.com/KukiVlad/JIBlogs/raw/refs/heads/main/addons/dcwebhook/versions/DCWebHook-2.0.0.jar" }
+  { 
+    "name": "v2.0.0", 
+    "download": "https://github.com/KukiVlad/JIBlogs/raw/refs/heads/main/addons/dcwebhook/versions/DCWebHook-2.0.0.jar",
+    "description": [
+      "API 2.1.0.0 support",
+      "Full DiscordWebhok support"
+    ]
+  }
 ]
