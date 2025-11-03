@@ -2,6 +2,8 @@
   {
     "name": "v2.0.0",
     "download": "https://github.com/KukiVlad/JIBlogs/raw/refs/heads/main/addons/friendcase/versions/FriendCase-2.0.0.jar",
-    "description": "Поддержка X, фиксы Y, улучшения Z."
+    "description": [
+      "API 2.1.0.0 support"
+    ]
   }
 ]
