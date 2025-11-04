@@ -17,7 +17,7 @@
       "blogURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/plugins/donatecase.json"
     },
     {
-      "title": "SimpleGranter [FREE]",
+      "title": "SimpleGranter",
       "icon": "fas fa-gift",
       "description": "Allow your donors to donate groups to other players.",
       "badges": [
@@ -27,7 +27,8 @@
       "links": [
         { "href": "https://github.com/Jodexx/SimpleGranterAPI", "text": "API" },
         { "href": "https://repo.jodex.xyz/javadoc/releases/com/jodexindustries/simplegranter/SimpleGranterAPI/latest", "text": "JavaDocs" },
-        { "href": "https://www.spigotmc.org/resources/simplegranter-free.110477/", "text": "Download" }
+        { "href": "https://www.spigotmc.org/resources/simplegranter-free.110477/", "text": "Download" },
+        { "href": "https://www.spigotmc.org/resources/simplegranter-premium.110985/", "text": "Buy Premium $0.99" }
       ],
       "blogURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/plugins/simplegranterfree.json"
     },
