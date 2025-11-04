@@ -56,19 +56,6 @@
         { "href": "https://www.spigotmc.org/resources/headcollector.110490/", "text": "Download" }
       ],
       "blogURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/plugins/headcollector.json"
-    },
-    {
-      "title": "SimpleGranter [Premium]",
-      "icon": "fas fa-money-bill",
-      "description": "Promo codes for your minecraft server",
-      "badges": [
-        "https://img.shields.io/spiget/downloads/110985?style=for-the-badge&color=orange",
-        "https://img.shields.io/spiget/version/110985?style=for-the-badge&label=Version&color=orange"
-      ],
-      "links": [
-        { "href": "https://www.spigotmc.org/resources/simplegranter-premium.110985/", "text": "Buy 0.99$" }
-      ],
-      "blogURL": "https://raw.githubusercontent.com/KukiVlad/JIBlogs/refs/heads/main/plugins/simplegranterpremium.json"
     }
   ],
 "addons": [
