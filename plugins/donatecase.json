@@ -1,6 +1,6 @@
 {
   "blog1": {
-    "numberBlog": "#2.2.9.6",
+    "numberBlog": "Nov 8, 2025",
     "title": "DonateCase 2.2.9.6 - API 2.1.0.6",
     "description": [
       "Added RGB support for potions - [#80](https://github.com/Jodexx/DonateCase/issues/80)",
