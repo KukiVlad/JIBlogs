@@ -3,12 +3,11 @@
     "numberBlog": "#2.2.9.6",
     "title": "DonateCase 2.2.9.6 - API 2.1.0.6",
     "description": [
-      "Added RGB support for potions <br>",
-      "Added skull support for 1.21.10 (with LiteSkullAPI)",
+      "Added RGB support for potions - [#80](https://github.com/Jodexx/DonateCase/issues/80)",
+      "Added skull support for 1.21.10 (with [LiteSkullAPI](https://github.com/Jodexx/LiteSkullAPI)) - [#79](https://github.com/Jodexx/DonateCase/issues/79)",
       "Improved GUI loading",
-      "Fixed placeholder parsing for HISTORY type of item",
+      "Fixed placeholder parsing for HISTORY type of item - [#78](https://github.com/Jodexx/DonateCase/issues/78)",
       "Some API changes"
     ]
   }
 }
-
