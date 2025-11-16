@@ -1,5 +1,20 @@
 [
   { 
+    "name": "v2.0.2", 
+    "download": "https://github.com/KukiVlad/JIBlogs/raw/refs/heads/main/addons/dcprizepreview/versions/DCPrizePreview-2.0.2.jar",
+    "description": [
+      "API 2.1.0.7 support"
+    ] 
+  },
+  { 
+    "name": "v2.0.1", 
+    "download": "https://github.com/KukiVlad/JIBlogs/raw/refs/heads/main/addons/dcprizepreview/versions/DCPrizePreview-2.0.1.jar",
+    "description": [
+      "API 2.1.0.5 support",
+      "SpongeConfigurate refactor"
+    ] 
+  },
+  { 
     "name": "v2.0.0", 
     "download": "https://github.com/KukiVlad/JIBlogs/raw/refs/heads/main/addons/dcprizepreview/versions/DCPrizePreview-2.0.0.jar",
     "description": [
