@@ -1,5 +1,12 @@
 [
   { 
+    "name": "v2.0.2", 
+    "download": "https://github.com/KukiVlad/JIBlogs/raw/refs/heads/main/addons/dcblockanimations/versions/DCBlockAnimations-2.0.2.jar",
+    "description": [
+      "API 2.1.0.7 support"
+    ]
+  },
+  { 
     "name": "v2.0.1", 
     "download": "https://github.com/KukiVlad/JIBlogs/raw/refs/heads/main/addons/dcblockanimations/versions/DCBlockAnimations-2.0.1.jar",
     "description": [
