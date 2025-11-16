@@ -1,4 +1,18 @@
 {
+  "blog2": {
+    "numberBlog": "Nov 16, 2025",
+    "title": "DonateCase 2.2.9.7 - API 2.1.0.7",
+    "description": [
+      "Added premium animation FUTURE_WHEEL as free",
+      "Added ability to disable sound for animations",
+      "Added particle settings for RAINLY animation",
+      "Changed YAML loader indentation to 2 spaces",
+      "Updated configurate-yaml to 4.2.0",
+      "Fixed saving disabling for history on historyDataSize < 1",
+      "Fixed pose setting for all animations",
+      "Fixed addon disabling if error occurred"
+    ]
+  },
   "blog1": {
     "numberBlog": "Nov 8, 2025",
     "title": "DonateCase 2.2.9.6 - API 2.1.0.6",
